@@ -1,0 +1,2 @@
+# planora.AI
+index.html
